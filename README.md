@@ -6,7 +6,7 @@
 * [https://养鸡场.com](https://养鸡场.com)
 
 #### 目前大陆能正常访问地址
-* [https://yjcss.xyz](https://yjcss.xyz)
+* [https://yjcssr.xyz](https://yjcss.xyz)
 
 * [https://yjcdh.com](https://yjcdh.com)
 
@@ -17,6 +17,8 @@
 * [https://yjc01.xyz](https://yjc01.xyz)
 * [https://yjc02.xyz](https://yjc02.xyz)
 * [https://gudao.uk](https://gudao.uk)
+* [https://yjcss.xyz](https://yjcss.xyz)
+
 
 #### 有任何疑问请联系电报群组管理
 * 电报通知群组:[https://t.me/gudaoCloudNotice](https://t.me/gudaoCloudNotice)
