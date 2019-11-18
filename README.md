@@ -6,7 +6,7 @@
 * [https://养鸡场.com](https://养鸡场.com)
 
 #### 目前大陆能正常访问地址
-* [https://yjcssr.xyz](https://yjcss.xyz)
+* [https://yjc-b.xyz](https://yjc-b.xyz)
 
 * [https://yjcdh.com](https://yjcdh.com)
 
