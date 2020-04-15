@@ -5,18 +5,15 @@
 #### 记住我们的永久首页
 * [https://养鸡场.com](https://养鸡场.com)
 
+#### 自动跳转新地址
+* [https://yjcdh.com](https://yjcdh.com)
+
 #### 目前大陆能正常访问地址
-暂无
+* [https://yjc-i.xyz](https://yjc-i.xyz)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
 
 * [https://养鸡场.com](https://养鸡场.com)
-* [https://孤岛养鸡场.com](https://孤岛养鸡场.com)
-* [https://yjc01.xyz](https://yjc01.xyz)
-* [https://yjc02.xyz](https://yjc02.xyz)
-* [https://gudao.uk](https://gudao.uk)
-* [https://yjcss.xyz](https://yjcss.xyz)
-
 
 
 #### 有任何疑问请联系电报群组管理
